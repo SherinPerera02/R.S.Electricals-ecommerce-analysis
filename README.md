@@ -27,3 +27,6 @@ Contains transactional and operational data including:
 Order ID, Date, Product Name, Category, Revenue, Profit, Region, Channel, etc.
 
 Date Table: Created in Power BI to enable time-based intelligence
+
+<img width="1164" height="652" alt="image" src="https://github.com/user-attachments/assets/822038f2-da4a-4d4b-87c1-8ce4a7429347" />
+
